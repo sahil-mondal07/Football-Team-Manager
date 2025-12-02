@@ -19,4 +19,5 @@ This is a console-based football management system written in C.
 
 ```bash
 gcc src/*.c -I include -o manager
-./manager.exe    # on Windows from terminal
+./manager.exe    #
+
